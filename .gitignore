@@ -1,0 +1,6 @@
+/bin
+/Makefile
+/.qmake.stash
+
+*.o
+*.swp
